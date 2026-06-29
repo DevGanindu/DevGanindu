@@ -15,7 +15,7 @@
 
 ## 📫 **Get in Touch**
 - 💼 [LinkedIn]()
-- 📧 [Email](mailto:ganinduperera2002@gmail.com)
+- 📧 [Email](mailto:ganindu.dev@gmail.com)
 
 
 Thanks for stopping by! 😊
